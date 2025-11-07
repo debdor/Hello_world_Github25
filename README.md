@@ -9,3 +9,6 @@ Another change
 
 ## Protein info
 Here I will create a space to add my protein information
+
+## Gene info
+I will add gene information for my data
